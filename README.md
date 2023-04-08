@@ -1,0 +1,2 @@
+# ratrace
+RSI Algo Strat
